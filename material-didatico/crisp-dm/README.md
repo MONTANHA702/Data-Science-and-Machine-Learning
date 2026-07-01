@@ -12,3 +12,7 @@ Apostila com os primeiros passos da metodologia CRISP-DM (Cross-Industry Standar
 ## Formato
 
 Material em PDF, com conceitos teóricos e exemplos práticos.
+
+## Material em Construção
+
+Apesar de trazer muitas técnicas e conselhos acerca da limpeza e preparação dos dados esteja à vontade para complementar o conhecimento.

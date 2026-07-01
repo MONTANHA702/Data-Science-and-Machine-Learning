@@ -8,7 +8,7 @@ Este repositório é construído de forma incremental: à medida que novos proje
 
 | Pasta | Descrição |
 |---|---|
-| `classificacao/` | Projetos de classificação supervisionada |
+| `materiais didáticos/` | Materiais com script em Python sobre limpeza e preparação de dados |
 | `regressao/` | Projetos de regressão e previsão de valores contínuos |
 | `series-temporais/` | Modelos de previsão em séries temporais |
 | `visao-computacional/` | Projetos de detecção e análise de imagem/vídeo |
